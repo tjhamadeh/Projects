@@ -6,7 +6,7 @@
 using namespace std;
 
 /*******************************************************************************
-* Toufic Hamadeh, Brennan Jordan, Adres Jimenez, ,
+* Toufic Hamadeh
 * Group Assignment #1 - Vectors
 * Due Date: February 16, 2012
 * Class: CIS-277-601

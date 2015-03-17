@@ -5,7 +5,7 @@
 using namespace std;
 
 /*****************************************************************************
-* Toufic Hamadeh, , , , 
+* Toufic Hamadeh
 * This program demonstrates how queue operations work.
 * Due Date: March 08, 2012
 *****************************************************************************/

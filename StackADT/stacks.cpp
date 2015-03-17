@@ -6,7 +6,7 @@
 using namespace std;
 
 /*****************************************************************************
-* Toufic Hamadeh, Brennan Jordan, Michael Szwed, Chris Montagna, Shady Salaheldin
+* Toufic Hamadeh
 * This program demonstrates how stack operations work.
 * CIS-277-601
 *****************************************************************************/

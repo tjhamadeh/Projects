@@ -1,0 +1,16 @@
+a=a
+a=b+c
+a=b-c
+a=b^c
+a=b*c
+a=b/c
+a=20
+a=xo
+-2
+!a
+!3
+ab
+111
+ab=!c
+(a=b)
+(a+c)

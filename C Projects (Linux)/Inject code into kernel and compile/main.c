@@ -370,7 +370,9 @@ static inline void smp_prepare_cpus(unsigned int maxcpus) { }
  */
 static void __init setup_command_line(char *command_line)
 {
+	// ---------------------------------------------------------------------
 	printk(KERN_INFO "my_name (Toufic Hamadeh): setup_command_line(): command_line=%s\n", *command_line);
+	// ---------------------------------------------------------------------
 
 	saved_command_line =
 		memblock_virt_alloc(strlen(boot_command_line) + 1, 0);

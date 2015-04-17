@@ -191,7 +191,9 @@ static enum jump_label_type jump_label_type(struct static_key *key)
 
 void __init jump_label_init(void)
 {
+	// ---------------------------------------------------------------------
 	printk(KERN_INFO "my_name (Toufic Hamadeh): jump_label_init()\n");
+	// ---------------------------------------------------------------------
 
 	struct jump_entry *iter_start = __start___jump_table;
 	struct jump_entry *iter_stop = __stop___jump_table;

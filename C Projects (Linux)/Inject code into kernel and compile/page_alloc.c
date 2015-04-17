@@ -5570,7 +5570,9 @@ static int page_alloc_cpu_notify(struct notifier_block *self,
 
 void __init page_alloc_init(void)
 {
+	// ---------------------------------------------------------------------
 	printk(KERN_INFO "my_name (Toufic Hamadeh): page_alloc_init()\n");
+	// ---------------------------------------------------------------------
 
 	hotcpu_notifier(page_alloc_cpu_notify, 0);
 }
